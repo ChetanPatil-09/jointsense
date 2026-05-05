@@ -1,0 +1,4 @@
+ANTHROPIC_API_KEY=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
+APP_ENV=development
+# For production, add your deployed frontend URL:
+# ALLOWED_ORIGINS=["https://yourapp.com"]
